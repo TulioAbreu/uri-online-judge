@@ -1,0 +1,1 @@
+SELECT id, name FROM Products Where price < 10 OR price > 100;
